@@ -72,3 +72,17 @@ supported_commands_by_ecu:
   - 0142:VPWR
   7E7:
   - 0142:VPWR
+unsupported_commands_by_ecu:
+  7DF:
+  - 7DF.012F
+  - 7DF.0131
+  7E4:
+  - 7E4.7EC.224334
+  - 7E4.7EC.224373
+  - 7E4.7EC.224531
+  DA1D:
+  - DA1D.2233E5
+  DACB:
+  - DACB.2227C6
+  - DACB.222AF5
+  - DACB.222B43

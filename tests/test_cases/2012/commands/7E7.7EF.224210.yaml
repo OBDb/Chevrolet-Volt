@@ -1,0 +1,457 @@
+command_id: 7E7.7EF.224210
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EF056242100000
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 0
+- response: 7EF05624210B4AB
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.52873
+- response: 7EF05624210B50D
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.5362
+- response: 7EF05624210B52E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.53872
+- response: 7EF05624210B55F
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.54246
+- response: 7EF05624210B5A1
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.54749
+- response: 7EF05624210B5D2
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.55123
+- response: 7EF05624210B5E2
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.55245
+- response: 7EF05624210B634
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.55871
+- response: 7EF05624210B644
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.55993
+- response: 7EF05624210B6A7
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.56748
+- response: 7EF05624210B6C7
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.56992
+- response: 7EF05624210B719
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.57618
+- response: 7EF05624210B75B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.58122
+- response: 7EF05624210B77C
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.58373
+- response: 7EF05624210B7AD
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.58747
+- response: 7EF05624210B7BD
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.58869
+- response: 7EF05624210B7DE
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59121
+- response: 7EF05624210B7EE
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59243
+- response: 7EF05624210B80F
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59495
+- response: 7EF05624210B820
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59625
+- response: 7EF05624210B830
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59747
+- response: 7EF05624210B840
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59869
+- response: 7EF05624210B851
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.59998
+- response: 7EF05624210B882
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.60372
+- response: 7EF05624210B892
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.60494
+- response: 7EF05624210B8A3
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.60624
+- response: 7EF05624210B8F5
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.6125
+- response: 7EF05624210B905
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.61372
+- response: 7EF05624210B915
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.61494
+- response: 7EF05624210B957
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.61997
+- response: 7EF05624210B978
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.62249
+- response: 7EF05624210B9A9
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.62623
+- response: 7EF05624210B9CA
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.62875
+- response: 7EF05624210B9FB
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.63249
+- response: 7EF05624210BA0B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.63371
+- response: 7EF05624210BA1B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.63493
+- response: 7EF05624210BA5D
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.63996
+- response: 7EF05624210BA7E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.64248
+- response: 7EF05624210BA8E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.6437
+- response: 7EF05624210BAD0
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.64874
+- response: 7EF05624210BB01
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.65248
+- response: 7EF05624210BB11
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.6537
+- response: 7EF05624210BB42
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.65743
+- response: 7EF05624210BB53
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.65873
+- response: 7EF05624210BB84
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.66247
+- response: 7EF05624210BB94
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.66369
+- response: 7EF05624210BBD6
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.66873
+- response: 7EF05624210BBE6
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.66995
+- response: 7EF05624210BC07
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.67247
+- response: 7EF05624210BC38
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.6762
+- response: 7EF05624210BC69
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.67994
+- response: 7EF05624210BC8A
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.68246
+- response: 7EF05624210BCCC
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.6875
+- response: 7EF05624210BCDC
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.68872
+- response: 7EF05624210BD0D
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.69245
+- response: 7EF05624210BD3E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.69619
+- response: 7EF05624210BD5F
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.69871
+- response: 7EF05624210BD6F
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.69993
+- response: 7EF05624210BDA1
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.70375
+- response: 7EF05624210BDB1
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.70497
+- response: 7EF05624210BE34
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.71496
+- response: 7EF05624210BE44
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.71618
+- response: 7EF05624210BE65
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.7187
+- response: 7EF05624210BEF9
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.72999
+- response: 7EF05624210BF19
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.73243
+- response: 7EF05624210BF3A
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.73495
+- response: 7EF05624210BF6B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.73869
+- response: 7EF05624210BFBD
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.74495
+- response: 7EF05624210BFCE
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.74624
+- response: 7EF05624210BFDE
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.74746
+- response: 7EF05624210C020
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.7525
+- response: 7EF05624210C030
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.75372
+- response: 7EF05624210C040
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.75494
+- response: 7EF05624210C051
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.75624
+- response: 7EF05624210C071
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.75868
+- response: 7EF05624210C082
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.75998
+- response: 7EF05624210C092
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.7612
+- response: 7EF05624210C0B3
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.76371
+- response: 7EF05624210C0C3
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.76493
+- response: 7EF05624210C0D4
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.76623
+- response: 7EF05624210C0F5
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.76875
+- response: 7EF05624210C105
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.76997
+- response: 7EF05624210C115
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.77119
+- response: 7EF05624210C146
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.77493
+- response: 7EF05624210C157
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.77623
+- response: 7EF05624210C167
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.77745
+- response: 7EF05624210C178
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.77874
+- response: 7EF05624210C198
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.78119
+- response: 7EF05624210C1A9
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.78248
+- response: 7EF05624210C1C9
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.78492
+- response: 7EF05624210C20B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.78996
+- response: 7EF05624210C21B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.79118
+- response: 7EF05624210C22C
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.79248
+- response: 7EF05624210C23C
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.7937
+- response: 7EF05624210C25D
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.79622
+- response: 7EF05624210C26D
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.79744
+- response: 7EF05624210C27E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.79873
+- response: 7EF05624210C29E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.80117
+- response: 7EF05624210C2D0
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.80499
+- response: 7EF05624210C2E0
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.80621
+- response: 7EF05624210C301
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.80873
+- response: 7EF05624210C322
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.81125
+- response: 7EF05624210C332
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.81247
+- response: 7EF05624210C342
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.81369
+- response: 7EF05624210C363
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.81621
+- response: 7EF05624210C373
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.81743
+- response: 7EF05624210C384
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.81872
+- response: 7EF05624210C3B5
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.82246
+- response: 7EF05624210C3D6
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.82498
+- response: 7EF05624210C3E6
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.8262
+- response: 7EF05624210C3F7
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.8275
+- response: 7EF05624210C407
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.82872
+- response: 7EF05624210C417
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.82994
+- response: 7EF05624210C438
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.83246
+- response: 7EF05624210C448
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.83368
+- response: 7EF05624210C48A
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.83871
+- response: 7EF05624210C49A
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.83993
+- response: 7EF05624210C4AB
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.84123
+- response: 7EF05624210C4BB
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.84245
+- response: 7EF05624210C4CC
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.84375
+- response: 7EF05624210C4DC
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.84497
+- response: 7EF05624210C4EC
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.84619
+- response: 7EF05624210C4FD
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.84749
+- response: 7EF05624210C52E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.85122
+- response: 7EF05624210C53E
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.85245
+- response: 7EF05624210C54F
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.85374
+- response: 7EF05624210C580
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.85748
+- response: 7EF05624210C590
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.8587
+- response: 7EF05624210C613
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.8687
+- response: 7EF05624210C655
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.87373
+- response: 7EF05624210C696
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.87869
+- response: 7EF05624210C6B7
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.88121
+- response: 7EF05624210C719
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.88869
+- response: 7EF05624210C81F
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.90867
+- response: 7EF05624210C915
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.92744
+- response: 7EF05624210C946
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.93118
+- response: 7EF05624210C9C9
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.94118
+- response: 7EF05624210CA2C
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.94873
+- response: 7EF05624210CAD0
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.96124
+- response: 7EF05624210CAE0
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.96246
+- response: 7EF05624210CB53
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.97124
+- response: 7EF05624210CBA5
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.97749
+- response: 7EF05624210CBE6
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 3.98245
+- response: 7EF05624210CCCC
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4
+- response: 7EF05624210CD1D
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4.00618
+- response: 7EF05624210CD80
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4.01373
+- response: 7EF05624210CE34
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4.02747
+- response: 7EF05624210CEC7
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4.03868
+- response: 7EF05624210CEF9
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4.0425
+- response: 7EF05624210CF6B
+  expected_values:
+    CHEVROLET_HVBAT_CMU48_VOLT: 4.05119

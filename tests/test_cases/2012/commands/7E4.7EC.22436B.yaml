@@ -8,6 +8,9 @@ test_cases:
 - response: 7EC0562436B02BC
   expected_values:
     CHEVROLET_CHARGE_HV_VOLT: 350
+- response: 7EC0562436B02BF
+  expected_values:
+    CHEVROLET_CHARGE_HV_VOLT: 351.5
 - response: 7EC0562436B02C0
   expected_values:
     CHEVROLET_CHARGE_HV_VOLT: 352

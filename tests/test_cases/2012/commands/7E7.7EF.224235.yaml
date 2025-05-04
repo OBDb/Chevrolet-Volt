@@ -11,12 +11,18 @@ test_cases:
 - response: 7EF05624235B52E
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.53872
+- response: 7EF05624235B590
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.5462
 - response: 7EF05624235B5A1
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.54749
 - response: 7EF05624235B5E2
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.55245
+- response: 7EF05624235B5F3
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.55375
 - response: 7EF05624235B655
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.56123
@@ -32,6 +38,12 @@ test_cases:
 - response: 7EF05624235B6E8
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.57244
+- response: 7EF05624235B6F9
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.57374
+- response: 7EF05624235B709
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.57496
 - response: 7EF05624235B719
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.57618
@@ -59,9 +71,15 @@ test_cases:
 - response: 7EF05624235B7CE
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.58999
+- response: 7EF05624235B7EE
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.59243
 - response: 7EF05624235B7FF
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.59373
+- response: 7EF05624235B80F
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.59495
 - response: 7EF05624235B820
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.59625
@@ -86,9 +104,15 @@ test_cases:
 - response: 7EF05624235B8D4
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.60998
+- response: 7EF05624235B905
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.61372
 - response: 7EF05624235B946
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.61868
+- response: 7EF05624235B988
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.62371
 - response: 7EF05624235B9A9
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.62623
@@ -110,9 +134,18 @@ test_cases:
 - response: 7EF05624235BA5D
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.63996
+- response: 7EF05624235BAAF
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.64622
+- response: 7EF05624235BABF
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.64744
 - response: 7EF05624235BAD0
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.64874
+- response: 7EF05624235BAF0
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.65118
 - response: 7EF05624235BB01
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.65248
@@ -140,6 +173,9 @@ test_cases:
 - response: 7EF05624235BC59
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.67872
+- response: 7EF05624235BC69
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.67994
 - response: 7EF05624235BCDC
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.68872
@@ -152,6 +188,9 @@ test_cases:
 - response: 7EF05624235BD0D
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.69245
+- response: 7EF05624235BD1D
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.69368
 - response: 7EF05624235BD2E
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.69497
@@ -161,6 +200,15 @@ test_cases:
 - response: 7EF05624235BDA1
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.70375
+- response: 7EF05624235BDB1
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.70497
+- response: 7EF05624235BE24
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.71374
+- response: 7EF05624235BE55
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.71748
 - response: 7EF05624235BE76
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.72
@@ -191,6 +239,9 @@ test_cases:
 - response: 7EF05624235BF2A
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.73373
+- response: 7EF05624235BF4B
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.73625
 - response: 7EF05624235BF8C
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.74121
@@ -203,9 +254,18 @@ test_cases:
 - response: 7EF05624235BFBD
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.74495
+- response: 7EF05624235BFCE
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.74624
 - response: 7EF05624235BFDE
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.74746
+- response: 7EF05624235BFEE
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.74868
+- response: 7EF05624235BFFF
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.74998
 - response: 7EF05624235C00F
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.7512
@@ -227,6 +287,9 @@ test_cases:
 - response: 7EF05624235C0C3
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.76493
+- response: 7EF05624235C0E4
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.76745
 - response: 7EF05624235C0F5
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.76875
@@ -257,6 +320,9 @@ test_cases:
 - response: 7EF05624235C21B
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.79118
+- response: 7EF05624235C22C
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.79248
 - response: 7EF05624235C27E
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.79873
@@ -269,6 +335,9 @@ test_cases:
 - response: 7EF05624235C2BF
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.80369
+- response: 7EF05624235C2E0
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.80621
 - response: 7EF05624235C301
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.80873
@@ -293,6 +362,9 @@ test_cases:
 - response: 7EF05624235C394
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.81994
+- response: 7EF05624235C3B5
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.82246
 - response: 7EF05624235C3C5
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.82368
@@ -314,6 +386,9 @@ test_cases:
 - response: 7EF05624235C459
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.83497
+- response: 7EF05624235C469
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.83619
 - response: 7EF05624235C47A
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.83749
@@ -338,6 +413,9 @@ test_cases:
 - response: 7EF05624235C50D
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.84871
+- response: 7EF05624235C51D
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.84993
 - response: 7EF05624235C55F
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.85496
@@ -380,6 +458,12 @@ test_cases:
 - response: 7EF05624235CA3C
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.94995
+- response: 7EF05624235CA4D
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.95125
+- response: 7EF05624235CA5D
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.95247
 - response: 7EF05624235CAAF
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.95872
@@ -389,6 +473,12 @@ test_cases:
 - response: 7EF05624235CAF0
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.96368
+- response: 7EF05624235CB11
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.9662
+- response: 7EF05624235CB22
+  expected_values:
+    CHEVROLET_HVBAT_CMU85_VOLT: 3.9675
 - response: 7EF05624235CBD6
   expected_values:
     CHEVROLET_HVBAT_CMU85_VOLT: 3.98123

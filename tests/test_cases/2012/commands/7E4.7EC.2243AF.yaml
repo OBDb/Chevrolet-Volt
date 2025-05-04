@@ -23,6 +23,18 @@ test_cases:
 - response: 7EC056243AF58B4
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 34.65019
+- response: 7EC056243AF5966
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 34.9218
+- response: 7EC056243AF59FE
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 35.15373
+- response: 7EC056243AF5A42
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 35.2575
+- response: 7EC056243AF5AA7
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 35.41161
 - response: 7EC056243AF5B4D
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 35.66491
@@ -38,9 +50,15 @@ test_cases:
 - response: 7EC056243AF5C76
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 36.1181
+- response: 7EC056243AF5D0A
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 36.34394
 - response: 7EC056243AF5D57
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 36.46143
+- response: 7EC056243AF5E17
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 36.75441
 - response: 7EC056243AF5F2D
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 37.17861
@@ -56,21 +74,36 @@ test_cases:
 - response: 7EC056243AF6028
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 37.56161
+- response: 7EC056243AF6046
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 37.60739
 - response: 7EC056243AF6054
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 37.62875
+- response: 7EC056243AF6176
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 38.07126
 - response: 7EC056243AF6242
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 38.38254
 - response: 7EC056243AF62DE
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 38.62058
+- response: 7EC056243AF630E
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 38.69383
 - response: 7EC056243AF6333
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 38.75029
+- response: 7EC056243AF6385
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 38.87541
 - response: 7EC056243AF63E1
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 39.01579
+- response: 7EC056243AF6472
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 39.23705
 - response: 7EC056243AF64C7
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 39.36675
@@ -86,6 +119,9 @@ test_cases:
 - response: 7EC056243AF676C
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 40.39979
+- response: 7EC056243AF67CF
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 40.55085
 - response: 7EC056243AF689B
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 40.86213
@@ -101,6 +137,9 @@ test_cases:
 - response: 7EC056243AF6A60
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 41.55337
+- response: 7EC056243AF6B7E
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 41.98978
 - response: 7EC056243AF6BD2
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 42.11795
@@ -116,6 +155,9 @@ test_cases:
 - response: 7EC056243AF6F0C
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 43.37835
+- response: 7EC056243AF6FE0
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 43.70184
 - response: 7EC056243AF70C2
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 44.04669
@@ -128,6 +170,9 @@ test_cases:
 - response: 7EC056243AF726C
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 44.69673
+- response: 7EC056243AF73F9
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 45.30251
 - response: 7EC056243AF746B
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 45.47646
@@ -137,6 +182,9 @@ test_cases:
 - response: 7EC056243AF7562
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 45.85336
+- response: 7EC056243AF769B
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 46.33097
 - response: 7EC056243AF776A
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 46.64683
@@ -146,6 +194,9 @@ test_cases:
 - response: 7EC056243AF7838
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 46.96117
+- response: 7EC056243AF7850
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 46.99779
 - response: 7EC056243AF7AF0
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 48.02319
@@ -158,6 +209,9 @@ test_cases:
 - response: 7EC056243AF7C5E
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 48.58167
+- response: 7EC056243AF7C8F
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 48.65644
 - response: 7EC056243AF7CDB
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 48.77241
@@ -173,6 +227,12 @@ test_cases:
 - response: 7EC056243AF7DAB
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 49.0898
+- response: 7EC056243AF7F46
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 49.71695
+- response: 7EC056243AF7F6A
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 49.77188
 - response: 7EC056243AF8095
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 50.22812
@@ -185,6 +245,9 @@ test_cases:
 - response: 7EC056243AF81F5
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 50.76524
+- response: 7EC056243AF8212
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 50.80949
 - response: 7EC056243AF8226
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 50.84001
@@ -194,6 +257,9 @@ test_cases:
 - response: 7EC056243AF855A
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 52.09125
+- response: 7EC056243AF86CC
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 52.65583
 - response: 7EC056243AF8742
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 52.83589
@@ -206,12 +272,18 @@ test_cases:
 - response: 7EC056243AF881C
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 53.16854
+- response: 7EC056243AF8886
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 53.33028
 - response: 7EC056243AF8967
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 53.67361
 - response: 7EC056243AF8A56
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 54.0383
+- response: 7EC056243AF8AB0
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 54.17563
 - response: 7EC056243AF8AB7
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 54.18631
@@ -221,6 +293,9 @@ test_cases:
 - response: 7EC056243AF8CD9
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 55.01946
+- response: 7EC056243AF8CEF
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 55.05303
 - response: 7EC056243AF8DD3
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 55.40093
@@ -230,6 +305,9 @@ test_cases:
 - response: 7EC056243AF9022
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 56.30274
+- response: 7EC056243AF9096
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 56.47974
 - response: 7EC056243AF9335
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 57.50362
@@ -266,12 +344,21 @@ test_cases:
 - response: 7EC056243AF9604
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 58.60075
+- response: 7EC056243AF9685
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 58.79759
+- response: 7EC056243AF96A9
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 58.85252
 - response: 7EC056243AF973A
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 59.07378
 - response: 7EC056243AF97F7
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 59.36217
+- response: 7EC056243AF9824
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 59.43084
 - response: 7EC056243AF98C0
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 59.66888
@@ -290,6 +377,12 @@ test_cases:
 - response: 7EC056243AF9AC6
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 60.4593
+- response: 7EC056243AF9B3E
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 60.6424
+- response: 7EC056243AF9B4C
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 60.66377
 - response: 7EC056243AF9B97
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 60.77821
@@ -302,6 +395,9 @@ test_cases:
 - response: 7EC056243AF9CEB
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 61.29702
+- response: 7EC056243AF9CEE
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 61.30159
 - response: 7EC056243AF9D33
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 61.40688
@@ -320,6 +416,12 @@ test_cases:
 - response: 7EC056243AF9E8C
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 61.93332
+- response: 7EC056243AF9EF0
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 62.08591
+- response: 7EC056243AF9F21
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 62.16068
 - response: 7EC056243AFA010
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 62.52537
@@ -332,6 +434,12 @@ test_cases:
 - response: 7EC056243AFA0C3
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 62.7985
+- response: 7EC056243AFA0F7
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 62.87785
+- response: 7EC056243AFA173
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 63.06706
 - response: 7EC056243AFA17F
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 63.08537
@@ -347,6 +455,9 @@ test_cases:
 - response: 7EC056243AFA386
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 63.87732
+- response: 7EC056243AFA39E
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 63.91394
 - response: 7EC056243AFA39F
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 63.91547
@@ -356,6 +467,9 @@ test_cases:
 - response: 7EC056243AFA3CE
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 63.98718
+- response: 7EC056243AFA42B
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 64.12909
 - response: 7EC056243AFA484
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 64.2649
@@ -374,21 +488,39 @@ test_cases:
 - response: 7EC056243AFA549
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 64.5655
+- response: 7EC056243AFA585
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 64.65705
 - response: 7EC056243AFA5EB
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 64.8127
 - response: 7EC056243AFA605
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 64.85237
+- response: 7EC056243AFA607
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 64.85542
 - response: 7EC056243AFA639
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 64.93172
 - response: 7EC056243AFA658
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 64.97902
+- response: 7EC056243AFA6B4
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 65.1194
+- response: 7EC056243AFA77C
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 65.42458
+- response: 7EC056243AFA833
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 65.70382
 - response: 7EC056243AFA8B1
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 65.89609
+- response: 7EC056243AFA8E0
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 65.9678
 - response: 7EC056243AFA8F2
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 65.99527
@@ -407,9 +539,18 @@ test_cases:
 - response: 7EC056243AFAA3F
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 66.5034
+- response: 7EC056243AFAA9E
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 66.64836
+- response: 7EC056243AFAAA5
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 66.65904
 - response: 7EC056243AFAB3B
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 66.88792
+- response: 7EC056243AFABF2
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 67.16716
 - response: 7EC056243AFAD98
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 67.81109
@@ -419,6 +560,9 @@ test_cases:
 - response: 7EC056243AFAE6D
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 68.13611
+- response: 7EC056243AFAEBE
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 68.25971
 - response: 7EC056243AFB080
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 68.94636
@@ -428,6 +572,9 @@ test_cases:
 - response: 7EC056243AFB1A9
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 69.39956
+- response: 7EC056243AFB2E9
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 69.88785
 - response: 7EC056243AFB463
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 70.46464
@@ -443,6 +590,15 @@ test_cases:
 - response: 7EC056243AFB621
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 71.14519
+- response: 7EC056243AFB648
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 71.2047
+- response: 7EC056243AFB728
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 71.5465
+- response: 7EC056243AFB87E
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 72.06836
 - response: 7EC056243AFBD7F
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 74.02304
@@ -461,9 +617,15 @@ test_cases:
 - response: 7EC056243AFC2F1
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 76.15015
+- response: 7EC056243AFC3EF
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 76.53773
 - response: 7EC056243AFC4EC
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 76.92378
+- response: 7EC056243AFC651
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 77.46853
 - response: 7EC056243AFC6AF
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 77.61196
@@ -476,6 +638,9 @@ test_cases:
 - response: 7EC056243AFC97E
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 78.70909
+- response: 7EC056243AFC982
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 78.71519
 - response: 7EC056243AFCA0D
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 78.92729
@@ -485,6 +650,9 @@ test_cases:
 - response: 7EC056243AFCC34
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 79.76806
+- response: 7EC056243AFCCD5
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 80.01373
 - response: 7EC056243AFCDAE
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 80.34485
@@ -494,6 +662,9 @@ test_cases:
 - response: 7EC056243AFD116
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 81.67544
+- response: 7EC056243AFD179
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 81.8265
 - response: 7EC056243AFD334
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 82.50248
@@ -512,6 +683,12 @@ test_cases:
 - response: 7EC056243AFD59D
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 83.44396
+- response: 7EC056243AFD5D6
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 83.53094
+- response: 7EC056243AFD6CB
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 83.90478
 - response: 7EC056243AFD6D6
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 83.92157
@@ -524,6 +701,9 @@ test_cases:
 - response: 7EC056243AFD958
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 84.9012
+- response: 7EC056243AFD9D6
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 85.09346
 - response: 7EC056243AFDA66
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 85.31319
@@ -536,6 +716,9 @@ test_cases:
 - response: 7EC056243AFDB01
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 85.54971
+- response: 7EC056243AFDB0C
+  expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 85.56649
 - response: 7EC056243AFDB13
   expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 85.57717

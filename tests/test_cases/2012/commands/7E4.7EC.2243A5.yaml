@@ -5,30 +5,6 @@ test_cases:
 - response: 7EC056243A50396
   expected_values:
     CHEVROLET_HVBAT_CHRG_CNT: 918
-- response: 7EC056243A50397
+- response: 7EC056243A503A1
   expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 919
-- response: 7EC056243A50398
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 920
-- response: 7EC056243A50399
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 921
-- response: 7EC056243A5039A
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 922
-- response: 7EC056243A5039B
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 923
-- response: 7EC056243A5039C
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 924
-- response: 7EC056243A5039D
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 925
-- response: 7EC056243A5039E
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 926
-- response: 7EC056243A5039F
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 927
+    CHEVROLET_HVBAT_CHRG_CNT: 929

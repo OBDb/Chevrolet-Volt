@@ -14,3 +14,6 @@ test_cases:
 - response: 7EC046243693F
   expected_values:
     CHEVROLET_CHARGE_AC_CURR: 12.6
+- response: 7EC0462436941
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 13

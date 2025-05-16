@@ -5,9 +5,9 @@ test_cases:
 - response: 7EF0562420C0000
   expected_values:
     CHEVROLET_HVBAT_CMU44_VOLT: 0
-- response: 7EF0562420CC4FD
+- response: 7EF0562420CB7FF
   expected_values:
-    CHEVROLET_HVBAT_CMU44_VOLT: 3.84749
+    CHEVROLET_HVBAT_CMU44_VOLT: 3.59373
 - response: 7EF0562420CD178
   expected_values:
     CHEVROLET_HVBAT_CMU44_VOLT: 4.09125

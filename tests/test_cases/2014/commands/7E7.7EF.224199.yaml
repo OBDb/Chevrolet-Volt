@@ -1,0 +1,16 @@
+command_id: 7E7.7EF.224199
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EF05624199BE13
+  expected_values:
+    CHEVROLET_HVBAT_CMU25_VOLT: 3.71244
+- response: 7EF05624199C6F9
+  expected_values:
+    CHEVROLET_HVBAT_CMU25_VOLT: 3.88624
+- response: 7EF05624199CB01
+  expected_values:
+    CHEVROLET_HVBAT_CMU25_VOLT: 3.96498
+- response: 7EF05624199D136
+  expected_values:
+    CHEVROLET_HVBAT_CMU25_VOLT: 4.08621

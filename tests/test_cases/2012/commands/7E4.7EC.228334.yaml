@@ -2,9 +2,9 @@ command_id: 7E4.7EC.228334
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7EC0462833427
+- response: 7EC0462833425
   expected_values:
-    CHEVROLET_HVBAT_SOC_DISPLAY: 15.29412
+    CHEVROLET_HVBAT_SOC_DISPLAY: 14.5098
 - response: 7EC04628334FB
   expected_values:
     CHEVROLET_HVBAT_SOC_DISPLAY: 98.43137

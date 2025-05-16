@@ -2,21 +2,9 @@ command_id: 7E4.7EC.22434F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7EC0462434F3E
+- response: 7EC0462434F3A
   expected_values:
-    CHEVROLET_HVBAT_TEMP: 22
-- response: 7EC0462434F3F
+    CHEVROLET_HVBAT_TEMP: 18
+- response: 7EC0462434F45
   expected_values:
-    CHEVROLET_HVBAT_TEMP: 23
-- response: 7EC0462434F40
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 24
-- response: 7EC0462434F41
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 25
-- response: 7EC0462434F42
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 26
-- response: 7EC0462434F43
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 27
+    CHEVROLET_HVBAT_TEMP: 29

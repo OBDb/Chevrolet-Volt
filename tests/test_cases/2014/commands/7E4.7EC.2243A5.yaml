@@ -1,0 +1,10 @@
+command_id: 7E4.7EC.2243A5
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EC056243A5024A
+  expected_values:
+    CHEVROLET_HVBAT_CHRG_CNT: 586
+- response: 7EC056243A5024B
+  expected_values:
+    CHEVROLET_HVBAT_CHRG_CNT: 587

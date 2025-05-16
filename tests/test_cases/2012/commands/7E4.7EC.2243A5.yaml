@@ -5,6 +5,6 @@ test_cases:
 - response: 7EC056243A50396
   expected_values:
     CHEVROLET_HVBAT_CHRG_CNT: 918
-- response: 7EC056243A503A1
+- response: 7EC056243A503A9
   expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 929
+    CHEVROLET_HVBAT_CHRG_CNT: 937

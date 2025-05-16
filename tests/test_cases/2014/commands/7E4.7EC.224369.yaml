@@ -1,0 +1,22 @@
+command_id: 7E4.7EC.224369
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EC0462436900
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 0
+- response: 7EC0462436903
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 0.6
+- response: 7EC0462436904
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 0.8
+- response: 7EC0462436905
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 1
+- response: 7EC0462436906
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 1.2
+- response: 7EC046243690B
+  expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 2.2

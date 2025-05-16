@@ -78,6 +78,7 @@ unsupported_commands_by_ecu:
   - 7DF.0131
   - 7DF.2C3.2206A0
   7E0:
+  - 7E0.7E8.220000
   - 7E0.7E8.22248E
   - 7E0.7E8.22248F
   - 7E0.7E8.222490
@@ -88,6 +89,7 @@ unsupported_commands_by_ecu:
   - 7E4.7EC.224334
   - 7E4.7EC.224531
   7E7:
+  - 7E7.7EF.224107
   - 7E7.7EF.22428F
   - 7E7.7EF.224290
   DA1D:

@@ -8,6 +8,6 @@ test_cases:
 - response: 7EF05624200B7FF
   expected_values:
     CHEVROLET_HVBAT_CMU32_VOLT: 3.59373
-- response: 7EF05624200D115
+- response: 7EF05624200D23C
   expected_values:
-    CHEVROLET_HVBAT_CMU32_VOLT: 4.0837
+    CHEVROLET_HVBAT_CMU32_VOLT: 4.1062

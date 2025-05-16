@@ -14,3 +14,12 @@ test_cases:
 - response: 7EC046243687B
   expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 246
+- response: 7EC046243687C
+  expected_values:
+    CHEVROLET_CHARGE_AC_VOLT: 248
+- response: 7EC046243687D
+  expected_values:
+    CHEVROLET_CHARGE_AC_VOLT: 250
+- response: 7EC046243687F
+  expected_values:
+    CHEVROLET_CHARGE_AC_VOLT: 254

@@ -1,0 +1,7 @@
+command_id: 7E4.7EC.224373
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7EC056243730000
+  expected_values:
+    CHEVROLET_CHARGE_MODE: NOT_CHARGING

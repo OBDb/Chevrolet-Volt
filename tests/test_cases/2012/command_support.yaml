@@ -73,6 +73,11 @@ supported_commands_by_ecu:
   7E7:
   - 0142:VPWR
 unsupported_commands_by_ecu:
+  760:
+  - 760.760.224051:CHEVROLET_VSS_FL
+  - 760.760.224052:CHEVROLET_VSS_FR
+  - 760.760.224053:CHEVROLET_VSS_RL
+  - 760.760.224054:CHEVROLET_VSS_RR
   7DF:
   - 7DF.012F
   - 7DF.0131

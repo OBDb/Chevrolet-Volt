@@ -1,0 +1,7 @@
+command_id: 7E0.2211A1
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056211A10000
+  expected_values:
+    CHEVROLET_RUNTM: 0

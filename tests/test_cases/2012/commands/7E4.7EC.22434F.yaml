@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22434F
+test_cases:
+- response: 7EC0462434F3A
+  expected_values:
+    CHEVROLET_HVBAT_TEMP: 18
+- response: 7EC0462434F46
+  expected_values:
+    CHEVROLET_HVBAT_TEMP: 30

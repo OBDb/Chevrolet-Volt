@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224373
+test_cases:
+- response: 7EC056243730000
+  expected_values:
+    CHEVROLET_CHARGE_MODE: NOT_CHARGING
+- response: 7EC0562437302FF
+  expected_values:
+    CHEVROLET_CHARGE_MODE: CHARGING
+- response: 7EC056243730475
+  expected_values:
+    CHEVROLET_CHARGE_MODE: CHARGING

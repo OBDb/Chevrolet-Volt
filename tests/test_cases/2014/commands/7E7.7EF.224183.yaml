@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.224183
+test_cases:
+- response: 7EF05624183AB53
+  expected_values:
+    CHEVROLET_HVBAT_CMU03_VOLT: 3.34623
+- response: 7EF05624183B301
+  expected_values:
+    CHEVROLET_HVBAT_CMU03_VOLT: 3.49622
+- response: 7EF05624183B7FF
+  expected_values:
+    CHEVROLET_HVBAT_CMU03_VOLT: 3.59373
+- response: 7EF05624183D3B5
+  expected_values:
+    CHEVROLET_HVBAT_CMU03_VOLT: 4.13497

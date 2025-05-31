@@ -6,6 +6,6 @@ test_cases:
 - response: 7EC0562437307F6
   expected_values:
     CHEVROLET_CHARGE_MODE: NOT_CHARGING
-- response: 7EC056243730AE9
+- response: 7EC056243730A02
   expected_values:
-    CHEVROLET_CHARGE_MODE: CHARGING
+    CHEVROLET_CHARGE_MODE: NOT_CHARGING

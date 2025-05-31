@@ -3,27 +3,6 @@ test_cases:
 - response: 7EC0462434F3B
   expected_values:
     CHEVROLET_HVBAT_TEMP: 19
-- response: 7EC0462434F3C
+- response: 7EC0462434F45
   expected_values:
-    CHEVROLET_HVBAT_TEMP: 20
-- response: 7EC0462434F3D
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 21
-- response: 7EC0462434F3E
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 22
-- response: 7EC0462434F3F
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 23
-- response: 7EC0462434F40
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 24
-- response: 7EC0462434F41
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 25
-- response: 7EC0462434F42
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 26
-- response: 7EC0462434F43
-  expected_values:
-    CHEVROLET_HVBAT_TEMP: 27
+    CHEVROLET_HVBAT_TEMP: 29

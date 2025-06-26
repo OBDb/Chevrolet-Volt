@@ -1,14 +1,14 @@
 command_id: 7E7.7EF.22420A
 test_cases:
-- response: 7EF0562420AA655
-  expected_values:
+- expected_values:
     CHEVROLET_HVBAT_CMU42_VOLT: 3.24872
-- response: 7EF0562420AB301
-  expected_values:
+  response: 7EF0562420AA655
+- expected_values:
     CHEVROLET_HVBAT_CMU42_VOLT: 3.49622
-- response: 7EF0562420AB7FF
-  expected_values:
+  response: 7EF0562420AB301
+- expected_values:
     CHEVROLET_HVBAT_CMU42_VOLT: 3.59373
-- response: 7EF0562420AD417
-  expected_values:
+  response: 7EF0562420AB7FF
+- expected_values:
     CHEVROLET_HVBAT_CMU42_VOLT: 4.14244
+  response: 7EF0562420AD417

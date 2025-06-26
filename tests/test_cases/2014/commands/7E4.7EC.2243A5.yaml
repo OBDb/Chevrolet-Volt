@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.2243A5
 test_cases:
-- response: 7EC056243A5024A
-  expected_values:
+- expected_values:
     CHEVROLET_HVBAT_CHRG_CNT: 586
-- response: 7EC056243A5025D
-  expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 605
+  response: 7EC056243A5024A
+- expected_values:
+    CHEVROLET_HVBAT_CHRG_CNT: 614
+  response: 7EC056243A50266

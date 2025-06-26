@@ -1,23 +1,23 @@
 command_id: 7E4.7EC.224368
 test_cases:
-- response: 7EC0462436800
-  expected_values:
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 0
-- response: 7EC0462436839
-  expected_values:
+  response: 7EC0462436800
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 114
-- response: 7EC046243683A
-  expected_values:
+  response: 7EC0462436839
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 116
-- response: 7EC046243683B
-  expected_values:
+  response: 7EC046243683A
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 118
-- response: 7EC046243683C
-  expected_values:
+  response: 7EC046243683B
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 120
-- response: 7EC046243683D
-  expected_values:
+  response: 7EC046243683C
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 122
-- response: 7EC0462436865
-  expected_values:
+  response: 7EC046243683D
+- expected_values:
     CHEVROLET_CHARGE_AC_VOLT: 202
+  response: 7EC0462436865

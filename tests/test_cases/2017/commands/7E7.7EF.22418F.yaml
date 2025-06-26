@@ -1,14 +1,14 @@
 command_id: 7E7.7EF.22418F
 test_cases:
-- response: 7EF0562418FBA3C
-  expected_values:
-    CHEVROLET_HVBAT_CMU15_VOLT: 3.63745
-- response: 7EF0562418FC603
-  expected_values:
-    CHEVROLET_HVBAT_CMU15_VOLT: 3.86748
-- response: 7EF0562418FC6F9
-  expected_values:
-    CHEVROLET_HVBAT_CMU15_VOLT: 3.88624
-- response: 7EF0562418FC978
-  expected_values:
-    CHEVROLET_HVBAT_CMU15_VOLT: 3.935
+- expected_values:
+    CHEVROLET_HVBAT_CMU15_VOLT: 3.43374
+  response: 7EF0562418FAFCE
+- expected_values:
+    CHEVROLET_HVBAT_CMU15_VOLT: 3.65248
+  response: 7EF0562418FBB01
+- expected_values:
+    CHEVROLET_HVBAT_CMU15_VOLT: 3.78874
+  response: 7EF0562418FC1FB
+- expected_values:
+    CHEVROLET_HVBAT_CMU15_VOLT: 4.12367
+  response: 7EF0562418FD321

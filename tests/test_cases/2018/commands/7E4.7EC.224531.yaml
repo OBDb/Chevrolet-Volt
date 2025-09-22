@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_CHARGE_LVL: NOT_CHARGING
   response: 7EC0462453100
+- expected_values:
+    CHEVROLET_CHARGE_LVL: AC_2
+  response: 7EC0462453102

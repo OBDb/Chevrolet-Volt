@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_CHARGE_HV_CURR: 0
   response: 7EC0562436C0000
 - expected_values:
-    CHEVROLET_CHARGE_HV_CURR: 7.9
-  response: 7EC0562436C009E
+    CHEVROLET_CHARGE_HV_CURR: 8.05
+  response: 7EC0562436C00A1

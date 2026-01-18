@@ -1,0 +1,17 @@
+command_id: 7E4.7EC.22436B
+test_cases:
+- expected_values:
+    CHEVROLET_CHARGE_HV_VOLT: 0
+  response: 7EC0562436B0000
+- expected_values:
+    CHEVROLET_CHARGE_HV_VOLT: 332
+  response: 7EC0562436B0298
+- expected_values:
+    CHEVROLET_CHARGE_HV_VOLT: 332.5
+  response: 7EC0562436B0299
+- expected_values:
+    CHEVROLET_CHARGE_HV_VOLT: 333
+  response: 7EC0562436B029A
+- expected_values:
+    CHEVROLET_CHARGE_HV_VOLT: 333.5
+  response: 7EC0562436B029B

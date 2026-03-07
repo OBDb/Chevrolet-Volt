@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.224369
+test_cases:
+- expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 0
+  response: '7EC 04 62 43 69 00 '
+- expected_values:
+    CHEVROLET_CHARGE_AC_CURR: 0
+  response: 7EC0462436900

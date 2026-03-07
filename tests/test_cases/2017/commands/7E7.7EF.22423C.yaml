@@ -4,11 +4,11 @@ test_cases:
     CHEVROLET_HVBAT_CMU92_VOLT: 3.58244
   response: 7EF0562423CB76B
 - expected_values:
-    CHEVROLET_HVBAT_CMU92_VOLT: 3.73243
-  response: 7EF0562423CBF19
-- expected_values:
     CHEVROLET_HVBAT_CMU92_VOLT: 3.80743
   response: 7EF0562423CC2F0
+- expected_values:
+    CHEVROLET_HVBAT_CMU92_VOLT: 3.96498
+  response: 7EF0562423CCB01
 - expected_values:
     CHEVROLET_HVBAT_CMU92_VOLT: 4.11749
   response: 7EF0562423CD2D0

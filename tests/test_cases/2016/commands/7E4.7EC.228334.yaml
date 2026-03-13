@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_HVBAT_SOC_DISPLAY: 0
   response: 7EC0462833400
+- expected_values:
+    CHEVROLET_HVBAT_SOC_DISPLAY: 70.98039
+  response: 7EC04628334B5

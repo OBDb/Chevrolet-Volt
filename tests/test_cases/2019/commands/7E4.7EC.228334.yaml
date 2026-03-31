@@ -1,6 +1,9 @@
 command_id: 7E4.7EC.228334
 test_cases:
 - expected_values:
+    CHEVROLET_HVBAT_SOC_DISPLAY: 50.98039
+  response: 7EC0462833482
+- expected_values:
     CHEVROLET_HVBAT_SOC_DISPLAY: 76.86275
   response: 7EC04628334C4
 - expected_values:

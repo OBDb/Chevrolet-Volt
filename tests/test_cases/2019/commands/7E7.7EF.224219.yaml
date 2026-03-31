@@ -10,6 +10,9 @@ test_cases:
     CHEVROLET_HVBAT_CMU57_VOLT: 3.78874
   response: 7EF05624219C1FB
 - expected_values:
+    CHEVROLET_HVBAT_CMU57_VOLT: 3.84871
+  response: 7EF05624219C50D
+- expected_values:
     CHEVROLET_HVBAT_CMU57_VOLT: 3.91623
   response: 7EF05624219C882
 - expected_values:

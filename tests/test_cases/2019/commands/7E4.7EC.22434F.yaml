@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_HVBAT_TEMP: 27
   response: 7EC0462434F43
+- expected_values:
+    CHEVROLET_HVBAT_TEMP: 28
+  response: 7EC0462434F44

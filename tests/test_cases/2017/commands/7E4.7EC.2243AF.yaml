@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.2243AF
 test_cases:
 - expected_values:
-    CHEVROLET_HVBAT_SOC_RAW: 30.92241
-  response: 7EC056243AF4F29
+    CHEVROLET_HVBAT_SOC_RAW: 25.79232
+  response: 7EC056243AF4207
 - expected_values:
-    CHEVROLET_HVBAT_SOC_RAW: 44.14435
-  response: 7EC056243AF7102
+    CHEVROLET_HVBAT_SOC_RAW: 28.51911
+  response: 7EC056243AF4902
 - expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 55.46807
   response: 7EC056243AF8DFF

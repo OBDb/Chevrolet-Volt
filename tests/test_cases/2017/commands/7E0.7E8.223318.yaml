@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
   response: '7E80462331815'
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
+  response: 7E8046233183D

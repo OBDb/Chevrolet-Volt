@@ -4,11 +4,11 @@ test_cases:
     CHEVROLET_HVBAT_SOC_RAW: 13.54543
   response: 7EC056243AF22AD
 - expected_values:
+    CHEVROLET_HVBAT_SOC_RAW: 13.67056
+  response: 7EC056243AF22FF
+- expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 28.51911
   response: 7EC056243AF4902
-- expected_values:
-    CHEVROLET_HVBAT_SOC_RAW: 55.46807
-  response: 7EC056243AF8DFF
 - expected_values:
     CHEVROLET_HVBAT_SOC_RAW: 93.89487
   response: 7EC056243AFF05E

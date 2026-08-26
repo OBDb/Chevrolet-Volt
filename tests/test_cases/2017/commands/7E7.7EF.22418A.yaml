@@ -1,6 +1,9 @@
 command_id: 7E7.7EF.22418A
 test_cases:
 - expected_values:
+    CHEVROLET_HVBAT_CMU10_VOLT: 3.80873
+  response: "22418A\n7EF 05 62 41 8A C3 01 "
+- expected_values:
     CHEVROLET_HVBAT_CMU10_VOLT: 3.43496
   response: 7EF0562418AAFDE
 - expected_values:

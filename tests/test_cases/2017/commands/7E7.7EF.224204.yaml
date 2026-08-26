@@ -4,6 +4,9 @@ test_cases:
     CHEVROLET_HVBAT_CMU36_VOLT: 3.80369
   response: "224204\n7EF 05 62 42 04 C2 BF "
 - expected_values:
+    CHEVROLET_HVBAT_CMU36_VOLT: 4.07996
+  response: '7EF 05 62 42 04 D0 E4 '
+- expected_values:
     CHEVROLET_HVBAT_CMU36_VOLT: 3.29244
   response: 7EF05624204A892
 - expected_values:

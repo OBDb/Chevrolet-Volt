@@ -1,6 +1,9 @@
 command_id: 7E7.7EF.224217
 test_cases:
 - expected_values:
+    CHEVROLET_HVBAT_CMU55_VOLT: 3.80499
+  response: "224217\n7EF 05 62 42 17 C2 D0 "
+- expected_values:
     CHEVROLET_HVBAT_CMU55_VOLT: 3.38621
   response: 7EF05624217AD5F
 - expected_values:

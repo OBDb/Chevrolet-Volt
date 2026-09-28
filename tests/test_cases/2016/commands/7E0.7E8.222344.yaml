@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222344
+test_cases:
+- expected_values:
+    VOLT_EOP_ABS: 96
+  response: '7E80462234418'
+- expected_values:
+    VOLT_EOP_ABS: 492
+  response: 7E8046223447B

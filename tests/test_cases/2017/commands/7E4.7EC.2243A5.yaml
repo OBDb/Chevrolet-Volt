@@ -1,19 +1,19 @@
 command_id: 7E4.7EC.2243A5
 test_cases:
 - expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 3100
+    VOLT_HVBAT_CHRG_CNT: 3100
   response: |-
     7EC056241A70576
     7EC056243A50C1C
 - expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 449
+    VOLT_HVBAT_CHRG_CNT: 449
   response: 7EC056243A501C1
 - expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 459
+    VOLT_HVBAT_CHRG_CNT: 459
   response: 7EC056243A501CB
 - expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 1539
+    VOLT_HVBAT_CHRG_CNT: 1539
   response: 7EC056243A50603
 - expected_values:
-    CHEVROLET_HVBAT_CHRG_CNT: 3091
+    VOLT_HVBAT_CHRG_CNT: 3091
   response: 7EC056243A50C13

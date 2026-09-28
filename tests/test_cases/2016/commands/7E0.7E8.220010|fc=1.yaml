@@ -1,0 +1,19 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    VOLT_MAF: 0
+  response: |-
+    220010
+    CAN ERROR
+    7E8056200100000
+- expected_values:
+    VOLT_MAF: 0
+  response: '7E8 05 62 00 10 00 00 '
+- expected_values:
+    VOLT_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    VOLT_MAF: 0
+  response: |-
+    SEARCHING...
+    7E8056200100000

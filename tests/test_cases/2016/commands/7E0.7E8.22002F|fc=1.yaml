@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22002F|fc=1
+test_cases:
+- expected_values:
+    VOLT_FLI: 61.56863
+  response: 7E80462002F9D

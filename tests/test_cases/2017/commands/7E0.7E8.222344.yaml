@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.222344
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_ABS: 92
+    VOLT_EOP_ABS: 92
   response: '7E80462234417'
 - expected_values:
-    CHEVROLET_EOP_ABS: 96
+    VOLT_EOP_ABS: 96
   response: '7E80462234418'
 - expected_values:
-    CHEVROLET_EOP_ABS: 100
+    VOLT_EOP_ABS: 100
   response: '7E80462234419'
 - expected_values:
-    CHEVROLET_EOP_ABS: 336
+    VOLT_EOP_ABS: 336
   response: '7E80462234454'
 - expected_values:
-    CHEVROLET_EOP_ABS: 344
+    VOLT_EOP_ABS: 344
   response: '7E80462234456'

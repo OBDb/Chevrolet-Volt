@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22005C|fc=1
+test_cases:
+- expected_values:
+    VOLT_EOT: 17
+  response: '7E8 04 62 00 5C 39 '
+- expected_values:
+    VOLT_EOT: 20
+  response: 7E80462005C3C
+- expected_values:
+    VOLT_EOT: 26
+  response: 7E80462005C42
+- expected_values:
+    VOLT_EOT: 82
+  response: 7E80462005C7A

@@ -365,7 +365,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
-    {"id": "VOLT_BP_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual"}
+    {"id": "VOLT_BP_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual", "suggestedMetric": "boostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2344"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2018 },
   "signals": [

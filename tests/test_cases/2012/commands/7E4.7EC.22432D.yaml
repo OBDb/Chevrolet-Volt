@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.22432D
+test_cases:
+- expected_values:
+    VOLT_HVBAT_V: 301.08
+  response: 7EC0562432D0243
+- expected_values:
+    VOLT_HVBAT_V: 343.72
+  response: 7EC0562432D0295
+- expected_values:
+    VOLT_HVBAT_V: 346.32
+  response: 7EC0562432D029A

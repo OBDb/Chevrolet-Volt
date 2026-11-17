@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.2282B2
+test_cases:
+- expected_values:
+    VOLT_VENT_T: -0.375
+  response: 7EC046282B24D
+- expected_values:
+    VOLT_VENT_T: 1.875
+  response: 7EC046282B25F
+- expected_values:
+    VOLT_VENT_T: 2.875
+  response: 7EC046282B267

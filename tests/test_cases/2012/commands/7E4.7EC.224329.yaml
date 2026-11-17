@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224329
+test_cases:
+- expected_values:
+    VOLT_MG_V_6: 337.6222
+  response: 7EC056243291646
+- expected_values:
+    VOLT_MG_V_6: 353.25395
+  response: 7EC05624329174E
+- expected_values:
+    VOLT_MG_V_6: 364.50408
+  response: 7EC05624329180C

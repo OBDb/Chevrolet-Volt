@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222429
+test_cases:
+- expected_values:
+    VOLT_HIGH_V_VOLTS: 345.79688
+  response: '7E9056224295673'
+- expected_values:
+    VOLT_HIGH_V_VOLTS: 352.09375
+  response: '7E9056224295806'
+- expected_values:
+    VOLT_HIGH_V_VOLTS: 355.32812
+  response: 7E90562242958D5

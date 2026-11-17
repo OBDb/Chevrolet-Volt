@@ -1,0 +1,11 @@
+command_id: 7E7.7EF.2240D4
+test_cases:
+- expected_values:
+    VOLT_HVBAT_A: 33.15
+  response: 7EF056240D4FD69
+- expected_values:
+    VOLT_HVBAT_A: 0.3
+  response: 7EF056240D4FFFA
+- expected_values:
+    VOLT_HVBAT_A: 0.15
+  response: 7EF056240D4FFFD

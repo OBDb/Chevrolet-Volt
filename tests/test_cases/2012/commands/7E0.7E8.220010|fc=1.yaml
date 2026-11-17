@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    VOLT_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    VOLT_MAF: 17.01
+  response: 7E80562001006A5
+- expected_values:
+    VOLT_MAF: 17.33
+  response: 7E80562001006C5

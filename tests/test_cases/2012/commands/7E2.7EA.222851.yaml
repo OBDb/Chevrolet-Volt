@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.222851
+test_cases:
+- expected_values:
+    VOLT_CLU_SLIP_C1_RING: 0
+  response: 7EA056228510000
+- expected_values:
+    VOLT_CLU_SLIP_C1_RING: 1
+  response: 7EA056228510004
+- expected_values:
+    VOLT_CLU_SLIP_C1_RING: -0.75
+  response: 7EA05622851FFFD

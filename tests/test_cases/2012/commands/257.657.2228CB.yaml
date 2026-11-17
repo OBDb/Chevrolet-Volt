@@ -1,0 +1,5 @@
+command_id: 257.657.2228CB
+test_cases:
+- expected_values:
+    VOLT_MGA_T: 25
+  response: 657046228CB41

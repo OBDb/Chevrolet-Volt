@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.2241A3
+test_cases:
+- expected_values:
+    VOLT_HVBAT_CAP_AH: 37.8
+  response: 7EC056241A3017A

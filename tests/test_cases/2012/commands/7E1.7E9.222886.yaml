@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222886
+test_cases:
+- expected_values:
+    VOLT_MGB_V: 4
+  response: '7E9056228860190'
+- expected_values:
+    VOLT_MGB_V: 333
+  response: '7E9056228868214'
+- expected_values:
+    VOLT_MGB_V: 347
+  response: 7E905622886878C

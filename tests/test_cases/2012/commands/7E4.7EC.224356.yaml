@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224356
+test_cases:
+- expected_values:
+    VOLT_HIGH_V_CURRENT_HD: 0
+  response: 7EC056243560000
+- expected_values:
+    VOLT_HIGH_V_CURRENT_HD: -4.35044
+  response: 7EC05624356001D
+- expected_values:
+    VOLT_HIGH_V_CURRENT_HD: 58.35584
+  response: 7EC05624356FE7B

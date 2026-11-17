@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    VOLT_EOT_CALC: 49
+  response: '7E80462115459'
+- expected_values:
+    VOLT_EOT_CALC: 51
+  response: 7E8046211545B
+- expected_values:
+    VOLT_EOT_CALC: 52
+  response: 7E8046211545C

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222417
+test_cases:
+- expected_values:
+    VOLT_BATT_T_2417: 3
+  response: 7E9046224172B
+- expected_values:
+    VOLT_BATT_T_2417: 4
+  response: 7E9046224172C

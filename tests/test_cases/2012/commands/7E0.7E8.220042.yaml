@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    VOLT_M_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
+- expected_values:
+    VOLT_M_CTRL_MODULE_V: 12.575
+  response: 7E805620042311F
+- expected_values:
+    VOLT_M_CTRL_MODULE_V: 12.7
+  response: 7E805620042319C

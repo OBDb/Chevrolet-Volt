@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222411
+test_cases:
+- expected_values:
+    VOLT_ST_CHG_RAW_2: 17.64706
+  response: 7E9046224112D

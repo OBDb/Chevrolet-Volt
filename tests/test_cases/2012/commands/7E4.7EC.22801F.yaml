@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.22801F
+test_cases:
+- expected_values:
+    VOLT_AIR_T_2: 8
+  response: 7EC0462801F60

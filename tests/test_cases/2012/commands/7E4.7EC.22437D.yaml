@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.22437D
+test_cases:
+- expected_values:
+    VOLT_LAST_CHG_AC_KWH: null
+  response: 7EC0562437D0000

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222883
+test_cases:
+- expected_values:
+    VOLT_MGA_CURRENT: 0
+  response: '7E9056228830000'

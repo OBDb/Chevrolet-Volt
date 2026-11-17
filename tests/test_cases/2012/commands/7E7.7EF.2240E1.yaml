@@ -1,0 +1,8 @@
+command_id: 7E7.7EF.2240E1
+test_cases:
+- expected_values:
+    VOLT_BECM_BAT_SECTION_6_T: 3
+  response: 7EF046240E12B
+- expected_values:
+    VOLT_BECM_BAT_SECTION_6_T: 4
+  response: 7EF046240E12C

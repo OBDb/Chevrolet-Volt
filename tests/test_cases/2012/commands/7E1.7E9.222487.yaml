@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222487
+test_cases:
+- expected_values:
+    VOLT_EV_TRIP_THIS_DRIVE: 0
+  response: '7E9056224870000'

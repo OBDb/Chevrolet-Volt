@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221564
+test_cases:
+- expected_values:
+    VOLT_AC_HIGH_SIDE_P: 56.56
+  response: 7E8046215641C
+- expected_values:
+    VOLT_AC_HIGH_SIDE_P: 64.64
+  response: '7E80462156420'
+- expected_values:
+    VOLT_AC_HIGH_SIDE_P: 66.66
+  response: '7E80462156421'

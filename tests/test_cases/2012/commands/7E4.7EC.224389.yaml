@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224389
+test_cases:
+- expected_values:
+    VOLT_CHG_LIFETIME: 28677
+  response: 7EC0762438900007005

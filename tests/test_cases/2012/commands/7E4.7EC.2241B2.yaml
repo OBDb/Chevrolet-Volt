@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.2241B2
+test_cases:
+- expected_values:
+    VOLT_BATT_CLT_PMP_RPM: 0
+  response: 7EC056241B20000
+- expected_values:
+    VOLT_BATT_CLT_PMP_RPM: 400
+  response: 7EC056241B20190

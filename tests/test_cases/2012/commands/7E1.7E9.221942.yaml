@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221942
+test_cases:
+- expected_values:
+    VOLT_OUTPUT_SHFT_SPD_7E1: 0
+  response: '7E9056219420000'
+- expected_values:
+    VOLT_OUTPUT_SHFT_SPD_7E1: 18
+  response: '7E9056219420048'
+- expected_values:
+    VOLT_OUTPUT_SHFT_SPD_7E1: 751.25
+  response: 7E9056219420BBD

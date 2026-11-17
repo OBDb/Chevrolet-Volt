@@ -1,0 +1,11 @@
+command_id: 7E7.7EF.2240D3
+test_cases:
+- expected_values:
+    VOLT_BECM_5V_REFERENCE_V_1: 5
+  response: 7EF056240D30000
+- expected_values:
+    VOLT_BECM_5V_REFERENCE_V_1: 4.83063
+  response: 7EF056240D3F754
+- expected_values:
+    VOLT_BECM_5V_REFERENCE_V_1: 4.98474
+  response: 7EF056240D3FF38

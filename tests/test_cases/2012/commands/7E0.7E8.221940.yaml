@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221940
+test_cases:
+- expected_values:
+    VOLT_ATF_T_VAR_1: 15
+  response: '7E80462194037'
+- expected_values:
+    VOLT_ATF_T_VAR_1: 16
+  response: '7E80462194038'
+- expected_values:
+    VOLT_ATF_T_VAR_1: 18
+  response: 7E8046219403A
